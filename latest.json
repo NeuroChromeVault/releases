@@ -1,10 +1,13 @@
-{
+﻿{
   "version": "0.2.0-beta.56",
-  "notes": "Fix multi-RAR crash (subprocess isolation), multi-archive STL paths, gallery/cover for multi-archive, presupported backfill, Gumroad license API, real-time trial limit, release merge fixes.",
-  "pub_date": "2026-03-13T19:00:00Z",
+  "notes": "Neurochrome Vault 0.2.0-beta.56",
+  "pub_date": "2026-03-13T16:19:45Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHJzaWduIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjNyQ0E1T0k5ZzZNVmtWNTZtUGUwSjZ5cVRNSHd5S3l5dFVobDV2Y3ptOWNDTmJXSnVCWlpPaThiTkt6MXpJMUdSbnEvU1hEMnIzOEZmZURDbk9lbFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDA4NzE1CWZpbGU6RDpcU2NyaXB0c1xTVExWYXVsdFYyXHNyYy10YXVyaVx0YXJnZXRceDg2XzY0LXBjLXdpbmRvd3MtZ251XHJlbGVhc2VcYnVuZGxlXG5zaXNcTmV1cm9jaHJvbWUgVmF1bHRfMC4yLjAtYmV0YS41Nl94NjQtc2V0dXAubnNpcy56aXAJcHJlaGFzaGVkCjUxdDJaQ3VOZE8weFRYdCtreW53eWlOU09sQndPUldCSHNZKzcvK1RQS3lWcHN4bmlIS0dXdFI3MFZvRkp2QyswSkNJbkRQVkJDTnYzVHc0SEZISENRPT0K",
+      "signature": "untrusted comment: signature from rsign secret key
+RUQacjvv+hue2zeKxFlhXIz84QBxBgTHVkFsvohAMd6sx6IfAOMQgppSxoN587CXWDYXXwI2zrqUnEFnQAge4Cfw1kr8isdQJAE=
+trusted comment: timestamp:1773418703	file:D:\Scripts\STLVaultV2\src-tauri\target\x86_64-pc-windows-gnu\release\bundle\nsis\Neurochrome Vault_0.2.0-beta.56_x64-setup.nsis.zip	prehashed
+n/OS2spQdmK0ocWTWwmPRVMDHl2zMAwKyHYugagDk7ej/P+c1mcGDOMJU9jHgqOMtYhBBP6xG/7vc+IMPhYIBA==",
       "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.2.0-beta.56/Neurochrome.Vault_0.2.0-beta.56_x64-setup.nsis.zip"
     }
   }
