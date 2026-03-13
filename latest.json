@@ -1,14 +1,14 @@
-﻿{
-  "version": "0.2.0-beta.56",
-  "notes": "Neurochrome Vault 0.2.0-beta.56",
-  "pub_date": "2026-03-13T16:19:45Z",
+{
+  "version": "0.2.0-beta.57",
+  "notes": "Neurochrome Vault 0.2.0-beta.57",
+  "pub_date": "2026-03-13T16:49:51Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "untrusted comment: signature from rsign secret key
-RUQacjvv+hue2zeKxFlhXIz84QBxBgTHVkFsvohAMd6sx6IfAOMQgppSxoN587CXWDYXXwI2zrqUnEFnQAge4Cfw1kr8isdQJAE=
-trusted comment: timestamp:1773418703	file:D:\Scripts\STLVaultV2\src-tauri\target\x86_64-pc-windows-gnu\release\bundle\nsis\Neurochrome Vault_0.2.0-beta.56_x64-setup.nsis.zip	prehashed
-n/OS2spQdmK0ocWTWwmPRVMDHl2zMAwKyHYugagDk7ej/P+c1mcGDOMJU9jHgqOMtYhBBP6xG/7vc+IMPhYIBA==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.2.0-beta.56/Neurochrome.Vault_0.2.0-beta.56_x64-setup.nsis.zip"
+RUQacjvv+hue2wj1EsGHNrEh9R+GcgU6IXBsIWIwhFPYCAZ2O7TKrldmf1y47gtLKFZD9YRkOgBNk1fOW8XH23VrerxwT0+2EgQ=
+trusted comment: timestamp:1773420504	file:D:/Scripts/STLVaultV2/src-tauri/target/x86_64-pc-windows-gnu/release/bundle/nsis/Neurochrome Vault_0.2.0-beta.57_x64-setup.nsis.zip	prehashed
+vIRZUQPxX0ju4+OdygLixIEGINpM01gplU6RqeG892ZvH8iG3dLC2JGPjO8jrEqRDfcp2iUUY3dd102AzjyMCA==",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.2.0-beta.57/Neurochrome.Vault_0.2.0-beta.57_x64-setup.nsis.zip"
     }
   }
 }
