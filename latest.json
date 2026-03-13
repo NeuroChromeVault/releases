@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.57",
-  "notes": "Neurochrome Vault 0.2.0-beta.57",
-  "pub_date": "2026-03-13T17:04:13Z",
+  "version": "0.2.0-beta.58",
+  "notes": "Neurochrome Vault 0.2.0-beta.58",
+  "pub_date": "2026-03-13T21:53:20Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjNHWGZDVkZ1a1ZBNkE3UDljMmZvdFlkOTh3M1lRZWovOVFnbUJYK1M0L2k1QjYxQnNyaC90b3VjQ1UxalZMamJrSTh2YW1JS2drRENFZHJ3eFhVTEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDIxNDI5CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC4yLjAtYmV0YS41N194NjQtc2V0dXAubnNpcy56aXAKWVptODl5cGRmSHBTaWJJNWhSamdHK09HMEwrQ3lQbHV6R1pXVlloQmpMd2p4QTdkQ1NXSmVwVTJYaU1qbnhNYUdXYW42cUM5ZWVVWDVFMTltSEN2Q1E9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.2.0-beta.57/Neurochrome.Vault_0.2.0-beta.57_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjVCN2ZSWTVNSVJLMHR1L3pJLzdBK3JuN1hrOTBiY09icy9zWWd1akxLb1dJV2xjYjNZNXFHQ1NaSThLdzlFQ05ZS21uS0QvcmVidVZvVkJHNjZ5cmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDM4NzMxCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC4yLjAtYmV0YS41OF94NjQtc2V0dXAubnNpcy56aXAKMCtBb1JDYmFpdnc0ZW9QZEE2UWRRUnhFQURtcDQva240WUtoRDBsVEZUdm9aTHc1aW5lSUttNFN4d2IrVVI1bThmSHNNRzBCbEJXYUs3YzlEK1pzQVE9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.2.0-beta.58/Neurochrome.Vault_0.2.0-beta.58_x64-setup.nsis.zip"
     }
   }
 }
