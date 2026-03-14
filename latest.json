@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.60",
-  "notes": "Neurochrome Vault 0.2.0-beta.60",
-  "pub_date": "2026-03-13T22:25:38Z",
+  "version": "0.2.0-beta.61",
+  "notes": "Neurochrome Vault 0.2.0-beta.61 — Dual-connection DB pool, printed filter fix, RAR path matching, send-all-to-slicer, DB restore, license error improvements, GUI responsiveness.",
+  "pub_date": "2026-03-14T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjI3d01XQkpyV0xudTNyaEVNOGRPTDBLSm05ZlpEZmlFNzNXV2d1K1E1eWRCYlNsWFpYRWxOaU5QT3YvZUtQd3ZkRUNaTEYxbDJZaU11Y05ORTFiYlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDQwNjQxCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC4yLjAtYmV0YS42MF94NjQtc2V0dXAubnNpcy56aXAKcklTZlUzcUNjLytGRk5KODNlT1JIUE1hUVJzQTYxdnJ6dUNRVlVQSlBWMFIvakgvemowUUFyNFJvazVYOTZiZEdNbU9qb0M5clZveG5PUHZTV3EyQlE9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.2.0-beta.60/Neurochrome.Vault_0.2.0-beta.60_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMi9lT09kODV6cGw0T2dMTE10MGZ1Q2dEek9OdHJNZmxnUnZUMmducGttM3EzUUZlWXRnQmRkM3UxSlQwdHBrM3BaWGcraCtwRXlQMzNuS1ZNNytnV1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDgyMzE1CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC4yLjAtYmV0YS42MV94NjQtc2V0dXAubnNpcy56aXAKSkM3UnpyNlFiYkh2U1FvcHdyQy9RZkN2Z2poR3RjbzlRQ01xWDIvNHhJRVA5bnZuT3YrUldQdVM0YkoveDBLbDVDc1hRRzJCWldnU0FQd1pGcUs4Qnc9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.2.0-beta.61/Neurochrome.Vault_0.2.0-beta.61_x64-setup.nsis.zip"
     }
   }
 }
