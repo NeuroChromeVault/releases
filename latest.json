@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.62",
-  "notes": "Neurochrome Vault 0.2.0-beta.62 — Fix silent crash (118 mutex hardened), kill switch 404 fix, crash.log diagnostics, auto-tag NSFW.",
-  "pub_date": "2026-03-14T14:30:00Z",
+  "version": "0.2.0-beta.63",
+  "notes": "Neurochrome Vault 0.2.0-beta.63",
+  "pub_date": "2026-03-14T15:19:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjBmQ2E2b2NZRzcxcVFDd3dGL3EzMGV3d0NZWkp4T1FES1VRWURxMitIQjVvb0dtWHI5VDNFajRRckQ0cUZTWnJ6L29jdmdGSDNDNzREblNrUGhXaGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDk5NTc0CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC4yLjAtYmV0YS42Ml94NjQtc2V0dXAubnNpcy56aXAKaXZqQ29QbjBVSm9hLzRPalRGVi9ZSFpYcGhtSk9ZNXFvNXB2L0NNcXhwSlBhaUhhcHZnY2w2ZWZ6S1VhTWpFUS9oT2J0MXJnVjc2c1h5L251SjBnQlE9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.2.0-beta.62/Neurochrome.Vault_0.2.0-beta.62_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMitRVm5uMVRRUHRKWXlvcTVlUi82UkdpaE1zOE5aMzIzcU5tZHAwUE43YjB0TGJ6blplQzVaV0N5MlBrR2d5clg0eS9Vb3NTcmJDeGNMWlhSS2FRNndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTAxNDA1CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC4yLjAtYmV0YS42M194NjQtc2V0dXAubnNpcy56aXAKQm9BMS91Tk9WcnFZakNWMHlseUdrVlR2WjVmSVlwZnd3aFl5L3RZZHpBeGthZER3eXgvVUh4UWRuc092bXNHQzhQS3ZkUnpmQVZqS05lYnEvek5pQlE9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.2.0-beta.63/Neurochrome.Vault_0.2.0-beta.63_x64-setup.nsis.zip"
     }
   }
 }
