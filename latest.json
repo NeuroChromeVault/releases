@@ -4,8 +4,8 @@
   "pub_date": "2026-04-07T15:10:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjNESXh1d0FpOUVkc1VLeVQwY2VzbkNkelFJdlhzcVBNNWFINFMwOWpjM2NYS1diTUVUQnlRd29sWmRCbWM4ZzV6eit2MkZJYTlubHUrNUk5U1lxR3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTczODA1CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjQtYmV0YS4yX3g2NC1zZXR1cC5uc2lzLnppcApJRElyaXR4OEpMdmRGcGNMMFYzcjBOMnh5VlpIcHFWbk8xQ09xWnphU1ZEcEx2Y054MkdJZ3pka1hkc1VwRGRnd0pVZURoTzhWY0c2emFUeUQxeHBCZz09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.4-beta.2/Neurochrome.Vault_0.9.4-beta.2_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjRNVnZvVkI2bnlFZHFtV3RGa1NXT1ZGcjkzMnVBdVpiRFZuTjdZdGovSW0remJDYUloZXY5T3UxVjhXR2xSN3dZZG14T1pyd05GZDRIWTU4d3F3WXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTczODAzCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjQtYmV0YS4yX3g2NC1zZXR1cC5leGUKY2FLWllrR2kvRk15NHl0TWhDZHp5RmwvZkRNWnN2N0ppNTlvNFNpV3ZOQWxFT0JBY2tlVGIyK0xLdFRnMVc1eXRaZzQ4TU9nYWxtVDNzdXJjZ0Q1REE9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.4-beta.2/Neurochrome.Vault_0.9.4-beta.2_x64-setup.exe"
     }
   }
 }
