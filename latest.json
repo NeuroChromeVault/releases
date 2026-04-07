@@ -1,10 +1,10 @@
 {
   "version": "0.9.4-beta.2",
   "notes": "Bug fixes and stability improvements. See https://github.com/NeuroChromeVault/releases/releases/tag/v0.9.4-beta.2 for details.",
-  "pub_date": "2026-04-07T19:28:00Z",
+  "pub_date": "2026-04-07T20:32:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjllNDJMNTVtNEZYMTBJbTR5RWtyYnEyN28wTmJjZWprM1o2OWJ6cm44UFVYZHZKb1lEUXZBUTNRcE0zbEVoNkhiZ1prMVFUZUNYVnNqb2RPSFZQMWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTkxMzI4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjQtYmV0YS4yX3g2NC1zZXR1cC5leGUKVk1ncGFzMmtYOEp3WmJSemJMUmtCRUNEQUFtUGJ0dWp6YkhXd3VxbnpWbHNaNTg4WS9ydkJsMEdoRzZWYittai8yUkdSQXhLeDI3VXEzbHpBcFdIREE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjllNDJMNTVtNEZYMTBJbTR5RWtyYnEyN28wTmJjZWprM1o2OWJ6cm44UFVYZHZKb1lEUXZBUTNRcE0zbEVoNkhiZ1prMVFUZUNYVnNqb2RPSFZQMWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTkxMzI4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjQtYmV0YS4yX3g2NC1zZXR1cC5leGUKVk1ncGFzMmtYOEp3WmJSemJMUmtCRUNEQUFtUGJ0dWp6YkhXd3VxbnpWbHNaNTg4WS9ydkJsMEdoRzZWYittai8yUkdSQXhLeDI3VXEzbHpBcFdIREE9PQo=",
       "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.4-beta.2/Neurochrome.Vault_0.9.4-beta.2_x64-setup.exe"
     }
   }
