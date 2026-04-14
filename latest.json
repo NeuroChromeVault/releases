@@ -1,11 +1,11 @@
 {
-  "version": "0.9.8",
-  "notes": "NCV v2 USB fix, 10x faster import, viewer dims restored, diagnostics improvements",
-  "pub_date": "2026-04-11T13:57:09Z",
+  "version": "0.9.16",
+  "notes": "Bug fixes and stability improvements.",
+  "pub_date": "2026-04-14T07:05:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMng4aGkzOGRJYk9FRk4yMUJBcTUyRkthaEplRk9WUktYaWlveVg2dVVzc1hxSnpvaDFwYmtPQzJhbFpvQVdmU2pxVytxL1ZZYmJDLzJ0ZUdhcjhhSlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTE0NTM2CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjhfeDY0LXNldHVwLmV4ZQpZeDZHOFcrQ2h0TTdTM0Framtxb09lMWdlc1Y1QjVydEU3MFlZK1l0Znh3TVlzaU5jb211U0p2VjFBbUxyQ3dVYld6RVp1MlAxblNlbk5LZkU4Um9Bdz09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.8/Neurochrome.Vault_0.9.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjgrYi8yVEhUV25ZM04zdHhBVEtEMDJsZ1ZHT1k1Mk8yZzArblVoNi9JWkJXN1hzdDdQbFc4WDRZOUNJcVo4VXNsd3JtN0ZzU1pxY0d1WGpucEIrblF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTUwMjI4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjE2X3g2NC1zZXR1cC5uc2lzLnppcApDWSs4VjZYbWRKUFhyNnhqdnRwcXRJRjhMSzV0VGQveGh3TTJmaGcxREhocStPOWtyUlBLUHN4ZE9abTJLUjdzaEdSRHBlUU1MSmtqWkZwc2dXcnBEdz09Cg==",
+      "url": "http://192.168.1.217:3000/zen/neurochrome-vault/releases/download/v0.9.16/Neurochrome%20Vault_0.9.16_x64-setup.nsis.zip"
     }
   }
 }
