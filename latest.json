@@ -1,10 +1,10 @@
 {
   "version": "0.9.20",
-  "notes": "RAR extract crash fix: libunrar isolated in subprocess + long-path prefix. Library click resets view; native double-click. Collection metadata side-table.",
-  "pub_date": "2026-04-15T11:00:00Z",
+  "notes": "RAR extract crash fix: libunrar isolated in subprocess + long-path prefix. Library click resets view; native double-click. Collection metadata side-table. 3D viewer stabilized via rollback to last known-good path (#543).",
+  "pub_date": "2026-04-15T19:35:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjFGMG5BQmgyYlJVV0dybEdDa0RvYVlHY1A3ZUxiK1ZOUG5BVjMxZ1hZMTRldnRNanVCYWdFTjNmVE5lMDZLa0hHc1ozbEtWYnMyUmlDK21WZWtrb2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjQ2OTM2CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjIwX3g2NC1zZXR1cC5leGUKYkJjUzFTclFrMm5tdkNwQzdRenRrMitnZVVwZVpmTlFGdTRuK0JVRGFUS1pBVkEwdlpoS3lmZklleCtmSy9MeVphYm1wbXB0ZWpVdXRSM0gzaHZhRGc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjZsTkIyMlNkVVRmK1dlUi9RWVdSbHJrMHBJL29sWEk4NlpmRytIdkJVZnVhR2VWbFZoU1RURUh2WFVweHRtVWg4Tjh2cStIYVkwZkRXMWhER3JEZGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjgxNzEwCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjIwX3g2NC1zZXR1cC5leGUKYS9Rb1JDQkZDeDhNVWMvNDlmWk5KZlRnYWczNzdiSjBFbGFadzZlQUtWOUZ0bWhQVk9iTXBFTzRQYzdWMUVwWjV6aXduTlliam1yRkd0RTdGYksvQ1E9PQo=",
       "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.20/Neurochrome.Vault_0.9.20_x64-setup.exe"
     }
   }
