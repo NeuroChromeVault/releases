@@ -1,11 +1,11 @@
 {
-  "version": "0.9.19",
-  "notes": ".ncv/.ncvd naming fix + system log bridge + export logs",
-  "pub_date": "2026-04-15T05:56:12Z",
+  "version": "0.9.20",
+  "notes": "RAR extract crash fix: libunrar isolated in subprocess + long-path prefix. Library click resets view; native double-click. Collection metadata side-table.",
+  "pub_date": "2026-04-15T11:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjg1cURMQjR0UkZ3L1JHcDByME16UkZTQWhPcytNSDZ3UnRsdFJmdGhFcmZwNEorcVM3Rk5RcC84Um9CakFESzhtc3FCbmZSa3g4Unp4QkQvZThPTmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjMyNTA4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjE5X3g2NC1zZXR1cC5leGUKNmxkbVh1UGRTcFBtVTlPOW8vNFcrV2Y5VE1rQVVGbGFVSU5tT0gzRzJ0djNtSklNbEM1d0lJQ2pMZ2o3VUVkMnlzWWMrZGQ1V1ZhMysyRldTajZNQXc9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.19/Neurochrome.Vault_0.9.19_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjFGMG5BQmgyYlJVV0dybEdDa0RvYVlHY1A3ZUxiK1ZOUG5BVjMxZ1hZMTRldnRNanVCYWdFTjNmVE5lMDZLa0hHc1ozbEtWYnMyUmlDK21WZWtrb2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjQ2OTM2CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjIwX3g2NC1zZXR1cC5leGUKYkJjUzFTclFrMm5tdkNwQzdRenRrMitnZVVwZVpmTlFGdTRuK0JVRGFUS1pBVkEwdlpoS3lmZklleCtmSy9MeVphYm1wbXB0ZWpVdXRSM0gzaHZhRGc9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.20/Neurochrome.Vault_0.9.20_x64-setup.exe"
     }
   }
 }
