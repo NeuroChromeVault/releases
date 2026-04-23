@@ -1,11 +1,11 @@
 {
-  "version": "0.9.26",
-  "notes": "Security fixes (CWE-502, CWE-367, MCP auth), Panopticon full BLAKE3 audit, vault stats refresh fix, queue-all performance (10x faster on large releases), index rebuild no longer freezes UI.",
-  "pub_date": "2026-04-18T07:29:14Z",
+  "version": "0.9.38",
+  "notes": "- NCLP previews moved from encrypted DB to disk cache. Auto-migrated on first launch. Purge button in Settings (#658)\n- Import of folders with only nested .rar/.7z no longer creates empty .ncvd \u2014 aborts with explicit error (#659)",
+  "pub_date": "2026-04-23T03:21:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjg3dWFPc1dXYWV5VjBaRnhBMTdta2pwYzAwcUZxaWIvK1N2bE9LRHJnUXYwZmZFbXErM0pRemlUZEhDMEZpOWxiWUk5VnBhMXdMODNIUWJHQkJrM2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDk1NTQxCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjI2X3g2NC1zZXR1cC5leGUKWHpxcm1IeVU2Q3J4OVpmb1h1dG1LeWhZa25uTFRweDI2dE1RNUlxOE53aVByN0pjcEdxZzFmUVlYaExXV0NXVWhzWGtMNmJhK25KREUrRHN0dk5QQXc9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.26/Neurochrome.Vault_0.9.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjJqUi9NcnIrL0pwam9jV05JdDNwcCt1dnJ0bEVFUjlkT3REakc0KzZBOXUwT014T1NEWk5WZ1FhT204dVVvbnZqQWxjRVBCZjRyKzJ1VTB1c3lMcFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODg2NDc1CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjM4X3g2NC1zZXR1cC5leGUKZXlja0tQUVlodGU5bGtiZnVMRnJzQVpUc1hnTlRyVldnRjNIeXJ0b2xaVFJ3dnNiMGVIU1NsUExiZEhMajBVeVRtbFBYZHQ4Z2FiVzU1WTVxWXdkQkE9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.38/Neurochrome.Vault_0.9.38_x64-setup.nsis.zip"
     }
   }
 }
