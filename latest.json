@@ -1,11 +1,11 @@
 {
-  "version": "0.9.41",
-  "notes": "fix(viewer): strong Blob ref prevents WebView2 GC of prefetched blob (#667)",
-  "pub_date": "2026-04-24T05:53:40Z",
+  "version": "0.9.22",
+  "notes": "Collection cards: gradient cover fallback with initials, inline rename, context menu in list view. Fix double-click on release (stale viewMode reset). Vault stats: Convert NCV->NCVD button with auto re-dedup pass.",
+  "pub_date": "2026-04-17T06:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMnowWkJaeWRvUWs4RjJLWWFwRXJBZlNxb242L2poemlmNmpaWXhBV2F6OHMzU3IwRGdrUG5uT3NhazFZNlYzNTJPbmFaVmZsUmZZUHl6eTdvbXJjSVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDA5ODk0CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjQxX3g2NC1zZXR1cC5leGUKb2wyVG5sMGNsNlFYUklxRzVURUNCMGZzalF3TURTQnd5T05XNHZkdzE0NXhIQVoxU2Y2ckxmWUw5VzhZbXZHTzcrOUh6Y2xjY3l5eUJ6a0FCTDNPQnc9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.41/Neurochrome.Vault_0.9.41_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjM1anZpTnJiTFA5T0gvSS9NZmRBTTRSdThsN3JaSm5CdGZnVi95ZTdVZFpJN3dQT0YrTk9SWjYvOEtrdkVoQ3RSMXNqKy9VN0hOTHA4U3hzMG9rWWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDA2OTkyCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjIyX3g2NC1zZXR1cC5leGUKQ05MTFRKck5BOFg4NnM2eWVuMVNDK2h6RllVRHVydThqc0pKWG8ySE9TTzEvenhSTFoybEhIQjB5SHZ0aG9Od3RZb3NjREtkUDNXdEpKckhYSW1OREE9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.22/Neurochrome.Vault_0.9.22_x64-setup.exe"
     }
   }
 }
