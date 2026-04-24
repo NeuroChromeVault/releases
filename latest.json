@@ -1,11 +1,11 @@
 {
   "version": "0.9.41",
-  "notes": "- Geometry cache miss fix for large STL files (Sally 190MB: 18s -> instant on re-open) (#648)\n- Right pane no longer stays on FILE PREVIEW after navigating back to library (#663)\n- Viewer errors now logged to History -> System for bug reports\n- Faction field accepts free-text entry (WebView2 datalist fix)",
-  "pub_date": "2026-04-23T19:09:00Z",
+  "notes": "- Scroll position restored when navigating back from release detail (#625)\n- ctrl+click multi-select checkmark on first item fixed (#626)\n- Vault Stats dashboard in Ctrl+Alt+Shift+D diagnostics panel (#666)\n- Geometry cache miss fix for large STL files (#648)\n- Right pane no longer stays on FILE PREVIEW after navigating back (#663)",
+  "pub_date": "2026-04-24T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjh2MWt3cC9sMlhDSHpmMjhTMkk4WGpCQ0dIK1VKWFFxM3Fja2xkdzNkL3FKcnFzSmFFMnJRdGxPYnpiS0ZZR0Y0REo3dlNyTnNtV3R1ZWx6TVRuSndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTcxMjQ0CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjQxX3g2NC1zZXR1cC5uc2lzLnppcAoyVm9IWllYREtGdHp2Qlp1VlYzMzFRRG1EdkJTOVZZRkxpKzhyak1kTWtzakRSSm5rMGdlazV4bzk1dk9XZ21NWERoM0g3Y2RSLzU3ZTR5ekdxYjNEdz09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.41/Neurochrome.Vault_0.9.41_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjNLcHJucUxVU0NpN1JxT0tXS0NKQ2trSkJxNUxTSnFVVE9lQ0xFS2lEcFFqRm14UVFtdTRHZTl6M0hGbE9PamR6ckVta0YvMzMyemhrUVVOREhLZGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDA1NjcwCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjQxX3g2NC1zZXR1cC5uc2lzLnppcApXTTI3MTZvNlpRb09ySE1SZDZJY0hXNkFmeUphbjZ0ek1TUnNOZVdGbUZsYzFqcXdHNFcvSWtoZ1FQMXFxc2EyemZ1WUpOODVBNlZuL2RGcitHcjBBdz09Cg==",
+      "url": "http://192.168.1.217:3000/zen/neurochrome-vault/releases/download/v0.9.41/Neurochrome%20Vault_0.9.41_x64-setup.nsis.zip"
     }
   }
 }
