@@ -1,11 +1,11 @@
 {
-  "version": "0.9.22",
-  "notes": "Collection cards: gradient cover fallback with initials, inline rename, context menu in list view. Fix double-click on release (stale viewMode reset). Vault stats: Convert NCV->NCVD button with auto re-dedup pass.",
-  "pub_date": "2026-04-17T06:30:00Z",
+  "version": "0.9.52",
+  "notes": "3D Viewer: persistent and memory cache hits now show the full geometry in a single frame instead of progressively revealing chunks from dots.",
+  "pub_date": "2026-04-27T06:53:29Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjM1anZpTnJiTFA5T0gvSS9NZmRBTTRSdThsN3JaSm5CdGZnVi95ZTdVZFpJN3dQT0YrTk9SWjYvOEtrdkVoQ3RSMXNqKy9VN0hOTHA4U3hzMG9rWWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDA2OTkyCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjIyX3g2NC1zZXR1cC5leGUKQ05MTFRKck5BOFg4NnM2eWVuMVNDK2h6RllVRHVydThqc0pKWG8ySE9TTzEvenhSTFoybEhIQjB5SHZ0aG9Od3RZb3NjREtkUDNXdEpKckhYSW1OREE9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.22/Neurochrome.Vault_0.9.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjJYUkR6VnJDM2ZmV245VkxVNlZwRFNnMDYxV1ZCWjBtdDdVeUJSdE0wek5wc1M5MW90clVMSlhXb3A0S2tYS3AyRWREK3ZNd0FGV1EvcmJKVm8zakFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MjcyMTYyCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjUyX3g2NC1zZXR1cC5leGUKekx6RU1XdkF0VGcxeFVhWFludUQzSndMazE5U005Smdva05Gb0NZeGVCR2ZDVlRoTFVKRktlSzdyZzRhM09wSE4wckcxbkpRaXlUa09hTkNsNTVJQmc9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.52/Neurochrome.Vault_0.9.52_x64-setup.nsis.zip"
     }
   }
 }
