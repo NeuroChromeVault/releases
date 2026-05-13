@@ -1,11 +1,11 @@
 {
-  "version": "0.9.58",
-  "notes": "Gallery, 3D viewer, and CSS fixes; v2 UI improvements; hardening pass for issues #699-#711.",
-  "pub_date": "2026-05-03T16:07:36Z",
+  "version": "0.9.62",
+  "notes": "RAR archive analysis and single-file extraction now run through the isolated RAR worker process, so libunrar crashes on large multipart archives are reported as import errors instead of taking down the app.",
+  "pub_date": "2026-05-13T04:45:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjk1clFPbXFXUWlRcXJqSEFQUTIzSnJUSHJRZEFXcmJWY2wxdzR3Slg0ZEEwbElvMjVtaG1Mb2pEK2Z6V2N5YW1SNjRTYkpDaXZGdWVOaGhWVTFPa3dNPQp0cnVzdGFtcDoxNzc3Nzk2Nzk0CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjU4X3g2NC1zZXR1cC5leGUKQmp5b1J0azVwK05XNHFrWU1ROS9aRmZmSytjbVNOUG1WN1IzaDhYMEdhczBDRmxETnBMVlRiK0RBZy8xWGJZNVF4YzV1b29JUVI1dFlCWnV6b0Q0QlE9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.58/Neurochrome.Vault_0.9.58_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjI3Uzl1d3dkS1dZUE94OXk4bThFV3ZPVWE3NlJEWUZCYVFpOTBKQjdRV2Z2Zzhmd1lPRjFwK292TmN0eVpxTFhXcTUyeXg1MmxJRFVaMCtsdml2M2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDMyNTE4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjYyX3g2NC1zZXR1cC5leGUKOFdRMjBRaHJ6MXJwWjVmUzd1dTRwN0oyckNoQ1ZISzFnbFQ2cEhYUGsxQ0g0M3pxMHdvem5RMEt2bzR0bTVkTGMzTmsrdzF5dWVYQll1SGp3QzEwQnc9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.62/Neurochrome.Vault_0.9.62_x64-setup.exe"
     }
   }
 }
