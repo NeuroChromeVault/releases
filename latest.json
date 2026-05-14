@@ -1,11 +1,11 @@
 {
-  "version": "0.9.62",
-  "notes": "RAR archive analysis and single-file extraction now run through the isolated RAR worker process, so libunrar crashes on large multipart archives are reported as import errors instead of taking down the app.",
-  "pub_date": "2026-05-13T04:45:41Z",
+  "version": "0.9.64",
+  "notes": "Bulk import now routes every archive through the single-import FIFO queue, preserves all edited metadata, and participates correctly in the global dedup registry. Diagnostic warnings added for phantom .ncvd detection.",
+  "pub_date": "2026-05-14T17:04:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjI3Uzl1d3dkS1dZUE94OXk4bThFV3ZPVWE3NlJEWUZCYVFpOTBKQjdRV2Z2Zzhmd1lPRjFwK292TmN0eVpxTFhXcTUyeXg1MmxJRFVaMCtsdml2M2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDMyNTE4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjYyX3g2NC1zZXR1cC5leGUKOFdRMjBRaHJ6MXJwWjVmUzd1dTRwN0oyckNoQ1ZISzFnbFQ2cEhYUGsxQ0g0M3pxMHdvem5RMEt2bzR0bTVkTGMzTmsrdzF5dWVYQll1SGp3QzEwQnc9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.62/Neurochrome.Vault_0.9.62_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMnhycnBDZmUzaWtzR1crUnZYc0R1dm9Gblg4YkhJVGFEN09WK21tZlFaY3RlTlZVUzg4M3BvZXNhYWZQRGFKaVpiNG5CMXNScmRUcEFhcnhmYVBtWFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NzcwOTM4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjY0X3g2NC1zZXR1cC5leGUKeG1aM2RjR29aQXg4VHpHRGhqaFBKQXRlamROcHdTM0twb1N5YW9LRHg2THlBcGZXc01TeGNLNmtBNllIY1dkRDBycEZ1dmQzZ3ZBTWtmZ3oxWWMrQ2c9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.64/Neurochrome.Vault_0.9.64_x64-setup.exe"
     }
   }
 }
