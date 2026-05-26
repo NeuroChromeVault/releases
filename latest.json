@@ -1,11 +1,11 @@
 {
-  "version": "0.9.70",
+  "version": "0.9.71",
   "notes": "Bug fixes and improvements.",
-  "pub_date": "2026-05-26T07:56:10Z",
+  "pub_date": "2026-05-26T09:48:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRYWNqdnYraHVlMnlnZ1ZUNHFpUHhLWlVmVFcyWDhBaHpuMCtXUmptblUxWXdCOWNYTGRVb29xZ1Z1ZE1HNEIxeWRpbnp3UHhuZFJoZzNKL2ZVbDRYTWwvVktUOFM0N3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Nzc3NTM3CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjcwX3g2NC1zZXR1cC5uc2lzLnppcAowNnd2YXNyMHhFMGx5WnRnT2tncVlkL012MFJUZm1wVVNmeHpFRUl3NE9aTEI5aC91UnJxV1ZPNDNaS2VDeXk3S250K2tWelExRXVUUUVKbWZjbW1Cdz09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.70/Neurochrome.Vault_0.9.70_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRYWNqdnYraHVlMi9FTFNSOHI5L2NzU1BZRnlvWnJjcGczWDdJdm05NEl4SE0rdmp3dzRFTkhpQ2VSZmsvODU3RGpTK1h6Wk1KMDV3Sk5MT0ZFZFRETkMzVFArR21jVFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Nzg3MzMzCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjcxX3g2NC1zZXR1cC5uc2lzLnppcAp0TFMvMWJITVM2NXhTUW84WDJXbmVDUTNhTlFxd0NRdXRHcUJvRXdpaGFWd25aTWZOTktabVFOT3o0VHg2SlFFMTZhVmpFaDlqY1Q3ZHZkY0lSUHhBUT09Cg==",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.71/Neurochrome.Vault_0.9.71_x64-setup.nsis.zip"
     }
   }
 }
