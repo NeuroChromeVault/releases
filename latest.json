@@ -1,10 +1,10 @@
 {
   "version": "0.9.72",
   "notes": "Bug fixes and improvements.",
-  "pub_date": "2026-05-26T12:32:04Z",
+  "pub_date": "2026-05-26T12:49:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRYWNqdnYraHVlMjdib2p5TWduSTVpSFJ2c1dXdTQ4STdKcjFZRmZmODlHemNkRkpKUmMyL2hBbDN2MzRMOTFCekkvdVZtOWxYVUNCQlZYeHlBY2lURWZ0eHNvTEw2amdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Nzk0Mjk3CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjcyX3g2NC1zZXR1cC5uc2lzLnppcApYZEIrSEVOQlh0Q3EvdTdnR2IxdmNqMUdVdFlEend2M01ibTVVTnJkN2h2WXpjMWVjVjY4Y2FXNGNELy93K2tza0d1M1Fra3NId0xNVXBqQ1RmV29DQT09Cg==",
+      "signature": "untrusted comment: signature from tauri secret key\nRUQacjvv+hue27bojyMgnI5iHRvsWWu48I7Jr1YFff89GzcdFJJRc2/hAl3v34L91BzI/uVm9lXUCBBVXxyAciTEftxsoLL6jgk=\ntrusted comment: timestamp:1779794297\tfile:Neurochrome Vault_0.9.72_x64-setup.nsis.zip\nXdB+HENBXtCq/u7gGb1vcj1GUtYDzwv3Mbm5UNrd7hvYzc1ecV68caW4cD//w+kskGu3QkksHwLMUpjCTfWoCA==",
       "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.72/Neurochrome.Vault_0.9.72_x64-setup.nsis.zip"
     }
   }
