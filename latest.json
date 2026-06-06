@@ -1,11 +1,11 @@
 {
-  "version": "0.9.72",
-  "notes": "Bug fixes and improvements.",
-  "pub_date": "2026-05-26T12:49:32Z",
+  "version": "0.9.95",
+  "notes": "Avvio piu veloce, cover e scroll libreria fluido, STL 800MB+ nel viewer 3D, import senza out-of-memory, backup chiave di cifratura (DPAPI).",
+  "pub_date": "2026-06-06T11:40:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjBRWG1LTzhSTC82c0I1RmNQYUE1MUtpU1ZZM3RJL2pDRjljOTY2cjZiNzNrWG1wSHgwME9zRVNod1pZMk5aZk81dzV1Nm1ZSGZOTkkyVnZES2MzVlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Nzk0Mjk3CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjcyX3g2NC1zZXR1cC5leGUKcnhhNWVIS2hiVTBkOUt4YTFuVkZ1NE03UDB2eEpUc29zdTlUZDlLR3B5VHZ3TDE3R0VhU0laTzI1WmJvbkZyUEpYaGllbHNxK21xYktKc0FmWjJXQVE9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.72/Neurochrome.Vault_0.9.72_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjlOUDZhdzJ1eTB1RXR2WEFVUnEyVGNKaWFRZ0JuMnJaN0xCR3dhRVF3UWs5dG5CT0Q1STgyWVc3WE41MS9IVlpDRkZrQnd4TWpOS1B2OWdOb3VzRFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzQ1ODY4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45Ljk1X3g2NC1zZXR1cC5leGUKM2FBcHZmdU5sajdUN0pUcGZOTU44eU9JRlhqOHZjVzR1VG53RzMxeXRkdUZVeVNmejN2d0tqK3Q0SFZNUXpMdEdzVE9PZ3NHcEsyN0tKQUFtQS90Q0E9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.95/Neurochrome.Vault_0.9.95_x64-setup.exe"
     }
   }
 }
