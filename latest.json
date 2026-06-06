@@ -1,11 +1,11 @@
 {
-  "version": "0.9.96",
-  "notes": "Fixes a crash during large bulk imports (releases are no longer aborted; the chunk registry self-heals). See the in-app changelog for details.",
-  "pub_date": "2026-06-06T13:55:05Z",
+  "version": "0.9.97",
+  "notes": "Updates now wait for your confirmation before installing; the selected library tile no longer shows a grey band; What's New shows the current version.",
+  "pub_date": "2026-06-06T15:21:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjhmRldBQ3p1T1NqdzBEbXdnS2NYTlc3WjZaUHFTeHpreGlOUnM5MXFmK2dXNGRKK2xrbjVuc2xsV3hHaXNwa2lFeHZmUE54VE83andpbmtmQUhMN3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzUzNTM4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45Ljk2X3g2NC1zZXR1cC5leGUKYjVqTTdzR3EyNlhrcHdNeVRmdkl2MWRVdi9iYTkxdFNCNWxwWHJ1ZGcrTm05QUplK2xZZEQ4NWRvdmRJOE9PNWE4RnU2T05Kckc2TXVEZ2w1bFFvQlE9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.96/Neurochrome.Vault_0.9.96_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjdqaVFJZjQ0UDJ5N3FSckhLTUJHNkFGeXJzWnhhYk9IQmdFcllPYW9JcHRQaFJHSXdzeHd0MFAxRUpvU3Y1ZEx1ZUZMeE5EZ2FzVGpuQ3QvUWJRRHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzU5MTg4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45Ljk3X3g2NC1zZXR1cC5leGUKZmVLOUNvNWFvc29UWWJlR2NoVVNrWUVuNHRGdjY1dXkvV0Z6YzZGUEl4dG96WmhQMWJtZ1dlTXVxOHNENStkZzZkR3NjWjlJNVVZK3JQVzBraWE3Q3c9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.97/Neurochrome.Vault_0.9.97_x64-setup.exe"
     }
   }
 }
