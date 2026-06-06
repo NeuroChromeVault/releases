@@ -1,11 +1,11 @@
 {
-  "version": "0.9.97",
-  "notes": "Updates now wait for your confirmation before installing; the selected library tile no longer shows a grey band; What's New shows the current version.",
-  "pub_date": "2026-06-06T15:21:16Z",
+  "version": "0.9.98",
+  "notes": "Fixes the bulk-import out-of-memory crash on heavily-deduplicated releases, a Windows path error on names ending in special characters, the queue being cleared by 'Open existing', and the wizard stalling while LOD runs.",
+  "pub_date": "2026-06-06T16:44:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjdqaVFJZjQ0UDJ5N3FSckhLTUJHNkFGeXJzWnhhYk9IQmdFcllPYW9JcHRQaFJHSXdzeHd0MFAxRUpvU3Y1ZEx1ZUZMeE5EZ2FzVGpuQ3QvUWJRRHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzU5MTg4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45Ljk3X3g2NC1zZXR1cC5leGUKZmVLOUNvNWFvc29UWWJlR2NoVVNrWUVuNHRGdjY1dXkvV0Z6YzZGUEl4dG96WmhQMWJtZ1dlTXVxOHNENStkZzZkR3NjWjlJNVVZK3JQVzBraWE3Q3c9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.97/Neurochrome.Vault_0.9.97_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjVlWE5HZzh4SW0rOEVXejVkNUk1bkM4L2M1UW1Sb1Q1bEtCOGpHSDZhTm5DWTZVRFBWUDJkTnZNb0hVeFJUaFlYRmM4Qlg5eFdBd25rdFJsajhKNEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzY0MTY4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45Ljk4X3g2NC1zZXR1cC5leGUKN1ZpaXk3Z2VCdzlQd2k3eFhMVm1ZanJnZlRROUtMYkcwYUFERWZPM0RCMnpoN09RTEZHVDAzYWNEYTRpcW1SdVJZVlk5czRremlhd2ZJckNtbDRWQWc9PQo=",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.98/Neurochrome.Vault_0.9.98_x64-setup.exe"
     }
   }
 }
