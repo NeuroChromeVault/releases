@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjhsNDBRUE5vcU1tVGRBdlR6NjRDVG5ZZVNqalFObzg3RDIvNzNqelczd3JieExENGFHOGlRbzZONVVlNHlBN1kxSDZpd0dEOWtiN1o1NHFxTncxNUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTI5MzQzCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjExNl94NjQtc2V0dXAubnNpcy56aXAKK1JTRzRLWXd1K2JDaW80OUh1SmU0NUtpVGNZL0JML0NHL1pXV0thWFVISmV4aTl1cVZHeEJYVHBxTDRKaXFIaGFSY2dYWHV0bmMwNGhlakhRVG1jQkE9PQo=",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.116/Neurochrome%20Vault_0.9.116_x64-setup.nsis.zip"
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.116/Neurochrome.Vault_0.9.116_x64-setup.nsis.zip"
     }
   }
 }
