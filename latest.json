@@ -1,11 +1,11 @@
 {
-  "version": "0.9.116",
-  "notes": "Import & UI fixes.",
+  "version": "0.9.117",
+  "notes": "Export file, faster/safer 3MF, dictionary fix.",
   "pub_date": "2026-06-08T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjRpc1M2KzI3Zm5ZaG4vSU1VZW5ZTmZmU29XYzVtbUNMRmJZZmJIOFlpSTVwUjNjamtWS0Q2dHkrcDZNeEdsQ2FxckJwNE05T1ZuejdBUWplME1MQkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTI5MzYxCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjExNl94NjQtc2V0dXAuZXhlCmhkb2dzMWMvbjZUWXNQZTIrVHJIckdPOVgzeEpML2ZnQUR6QmtMdFpEaUcrbml2T01XNGlRcEluQUxtZGNqMXpDOFZ1Sm5vK21KakRITGozN2dZZkJRPT0K",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.116/Neurochrome.Vault_0.9.116_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjZBSVQzRkVBNlQ3ZUxydUMvSmJjdjFuMGd1TTA3RWE5N3c3TnJ2Z1lQK3d5QmVKVkdLdmpJZzY0OTREZHRwQVkxQVJIUmlraWJvMFpWUnJqK2JWRFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTQzNjg0CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjExN194NjQtc2V0dXAuZXhlCitXZ1p1YUNzWFM1UUw0WXZKU1BoOWV5dFQyQ2hFRDdJR09ieEhxclpiKzM0OE9OOU54bmZ5L3FUUjAxSzdXUWEzVUZtUkU5NCtxSUlWL1lOZVRSdUJ3PT0K",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.117/Neurochrome.Vault_0.9.117_x64-setup.exe"
     }
   }
 }
