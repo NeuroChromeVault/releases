@@ -1,11 +1,11 @@
 {
-  "version": "0.9.118",
-  "notes": "3MF native parsing (no freeze), inline capture to Gallery.",
-  "pub_date": "2026-06-08T00:00:00Z",
+  "version": "0.9.119",
+  "notes": "Dictionary training hang fix, duplicate-container cleanup tool, automatic update check at startup.",
+  "pub_date": "2026-06-09T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjlmY2Q4My9kR0UyVnRaYXVGbjB2T2ZuM3UycUQrUWVtVkhKbHVNYmRJSjIwUGk0OUc1Zmkxa1ZwdEVDOTYzMUlJbmcwdlRLNnEyVDlYcTNhRS9laWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTUxMzUwCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjExOF94NjQtc2V0dXAuZXhlCjJrWWJFelowaERzSG5ZMlNBRE5idS9LSnJHUlh3Z2V6bGo2N0pWbGd5WG9kNGhSNG1aM1MrQVNvTlVIdkphaXp3cWxDNTV0RHZtc3J2ZFZKUnVOWkR3PT0K",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.118/Neurochrome.Vault_0.9.118_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjMxamtmWmYvMFZ5emw3d29jRUcrcUNORUlxRWVKc2hPWnc4QU5oMm41S1crYXFWZWcxZXJNNXZZM1c3TVdocjY3UGp3WUphK2t6RWxSVWRKKy8rWXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTgzMTcwCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjExOV94NjQtc2V0dXAuZXhlCjdIMjlzTHhGSXkwZzREY0hkQkxIZy8vNEpQb3RPMEZ3OGdIZWY0QnN6ZW9UTlUwa2h1SFUxcDY1ZUp6L3k5YXFvdm54WjBBY0dzcmFGWlpJZlJMWkFRPT0K",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.119/Neurochrome.Vault_0.9.119_x64-setup.exe"
     }
   }
 }
