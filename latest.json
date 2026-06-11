@@ -1,6 +1,6 @@
 {
   "version": "0.9.130",
-  "notes": "Redesigned 3D toolbar with Clay default mode and keyboard shortcuts (press ? for the guide) - giant meshes open ~2x faster with live progress - truly standalone verified exports with embedded identity - restore from file with pre-flight verification - smarter import recognition. Full notes on the release page.",
+  "notes": "Redesigned 3D viewer with the new Clay studio mode, up to 2x faster loading for giant sculpts, hover previews, portable verified exports, and dozens of refinements.",
   "pub_date": "2026-06-11T14:29:52Z",
   "platforms": {
     "windows-x86_64": {
