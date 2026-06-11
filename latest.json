@@ -1,11 +1,11 @@
 {
-  "version": "0.9.119",
-  "notes": "Dictionary training hang fix, duplicate-container cleanup tool, automatic update check at startup.",
-  "pub_date": "2026-06-09T00:00:00Z",
+  "version": "0.9.130",
+  "notes": "Redesigned 3D toolbar with Clay default mode and keyboard shortcuts (press ? for the guide) - giant meshes open ~2x faster with live progress - truly standalone verified exports with embedded identity - restore from file with pre-flight verification - smarter import recognition. Full notes on the release page.",
+  "pub_date": "2026-06-11T14:29:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjMxamtmWmYvMFZ5emw3d29jRUcrcUNORUlxRWVKc2hPWnc4QU5oMm41S1crYXFWZWcxZXJNNXZZM1c3TVdocjY3UGp3WUphK2t6RWxSVWRKKy8rWXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTgzMTcwCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjExOV94NjQtc2V0dXAuZXhlCjdIMjlzTHhGSXkwZzREY0hkQkxIZy8vNEpQb3RPMEZ3OGdIZWY0QnN6ZW9UTlUwa2h1SFUxcDY1ZUp6L3k5YXFvdm54WjBBY0dzcmFGWlpJZlJMWkFRPT0K",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.119/Neurochrome.Vault_0.9.119_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjZZc1dUb1BnZmZ1QTVLUHJ1eStzRHFYNEE0SHMrZnN0d3BjbDUvVmxrRmliUzIzV2JSL0Y5Y2ZqWEk5ZkQyMnpZWThBRTlOcWh5S2d6RGNEeDlMYUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTg3OTY4CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMC45LjEzMF94NjQtc2V0dXAuZXhlClpabWR6MzZBdjRoWmxLZEVHMkptQVdtejhGb3lzSnY1dXh5M1E0NXU0UEhoNWhqNUZuMmF5SEJKZDhRRTUwYVRTVG5xbWxVVG5ELzgxd3Nmam9JSERnPT0K",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v0.9.130/Neurochrome.Vault_0.9.130_x64-setup.exe"
     }
   }
 }
