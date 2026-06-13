@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Neurochrome Vault 1.0.0 - the first stable release. Faster imports, a smoother library, and a more reliable 3D viewer.",
+  "pub_date": "2026-06-13T13:28:51.000Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjhHdHQ3Z3hBUEZzaWVRWDNOTFNoSTI4NXY0dkhKWmNMdWd2UlR6ekNZdUlkUWF2b2ZMZVN2aG5hVlgvNHBZcnQ3L3pWOFNYOUZaNG1QZ0s0L01mQkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzUyODc0CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4wLjBfeDY0LXNldHVwLmV4ZQpkQXlNVzRxWjlYQnpqODN6U1dXOG42UzlzYS9yaXVLdVNXZGNwaTU0a3o0aUF5ekc1eUo5MUJ0SE5JZnpGT09wOTkrQjBFWEtVTThDcHdWT1RHSHZDQT09Cg==",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.0.0/Neurochrome.Vault_1.0.0_x64-setup.exe"
+    }
+  }
+}
