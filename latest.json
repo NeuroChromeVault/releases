@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Stability and import-queue fixes.",
-  "pub_date": "2026-06-16T12:21:34Z",
+  "version": "1.1.3",
+  "notes": "Dedup, LOD and import fixes.",
+  "pub_date": "2026-06-16T17:05:20Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjR1QU1JQnI3dmk4bUV6eDNLWTdJeDRJczlNMlduVWxTKzB3bkEyeTMvaGo3cjQ5NXpYMTM4a2VVVHBhY1lQRmZWcklhTDFZZGpkcW5wbFllZndGcGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjA4MDgzCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4xLjJfeDY0LXNldHVwLmV4ZQpIVUkvSzhJOFgzeWRlc0pUSERTM0ZoU2ZOQWxNbU90QXpuL2NBcUhHeGhpaU5Xd2dHdlNKNzl4NVdmdTh3ZHAzYnBqRGJERG01L1RiQzJBSEl2UG9BQT09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.1.2/Neurochrome.Vault_1.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMnduWDZMaCs3TGYzVGw2Q1NnOVdLM25hUEF5ZkFHTHdLVk82NnhodU5xZzV4ajE3TVpGN1RkeDZ1OTREeUExTWJRSlRuRHM2L1prMTRDZVExa3FkRHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjI5NDE5CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4xLjNfeDY0LXNldHVwLmV4ZQorZzJrczA3bnJLNXI4NU5yd2tFRWZyTGo0TVFyV0k1QnRSRXBlK3R0L0ZuSXJyZXNLRlZwTERiN25rOWk0QzJwaFIyUnlNencxV3Q1QkZ0ZUZVOWNEdz09Cg==",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.1.3/Neurochrome.Vault_1.1.3_x64-setup.exe"
     }
   }
 }
