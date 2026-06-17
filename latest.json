@@ -1,11 +1,11 @@
 {
-  "version": "1.1.3",
-  "notes": "Dedup, LOD and import fixes.",
-  "pub_date": "2026-06-16T18:02:43Z",
+  "version": "1.1.6",
+  "notes": "Stability and data-safety improvements: more reliable deduplication, faster imports, and safer backups.",
+  "pub_date": "2026-06-17T18:26:14Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjViMitKdFB5NURreTMvQld4M1AwNERqdEJWSXl3aWRnK2J4UTV0NDUvVi9CMW04WEZxeXNQUW9lMWhBYm51b012ckdXRTljekd4SHU4Nk5hWEs3T3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjMyODAzCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4xLjNfeDY0LXNldHVwLmV4ZQpvUlFTdXRqNk9HL0lGTzlZY2IxaVFKVlRrUzFQWXhtN1N3NldDeS94eUpxR0JrNVI2enVsMEd2Uzgxek5qMGZZT1JzV3ZPVkloRjZMNi81SW81NmNDQT09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.1.3/Neurochrome.Vault_1.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMnlTdFZPV2czRFJmK1R3UkJhVlNzWVZQa1ByZVZjazhnVzNVQlRtL0xLaU9nelByK1NEbDIwaGxaUFo2TnRkbCtPK01GV2tPbTBuWnNqMjZWM05QTlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzIwNzI2CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4xLjZfeDY0LXNldHVwLmV4ZQoyU2p3UDFBdU9kVGJEUUtNVG4rL1QrNFVPNjhicElDaGJqejZFMlVqdzdvZEdzZGJBRC9vcWdsd0M0VWRhSUZMWjlod0VXc2ZzYjcrbGhlVVRnY1ZDdz09Cg==",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.1.6/Neurochrome.Vault_1.1.6_x64-setup.exe"
     }
   }
 }
