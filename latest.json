@@ -1,11 +1,11 @@
 {
-  "version": "1.1.7",
-  "notes": "Neurochrome Vault 1.1.7 — hotfix\n\n- Fixed a false \"partial import / models missing\" warning that appeared for complete multi-nested archive imports (the import was actually complete).\n- Restored correct \"move after import\" behavior for complete nested imports.\n- Fixed a signed-build script PowerShell parsing issue.",
-  "pub_date": "2026-06-18T10:30:55Z",
+  "version": "1.2.0",
+  "notes": "Turbo Import: import now, review metadata later (Needs Review queue). Honest storage metrics: compression and deduplication shown separately. Safer startup: no automatic global dedup index rebuild at launch. Advanced read-only dedup audit. Experimental dedup repair planner (dry-run, fail-closed). Known issues: some advanced dedup/audit operations can be slow on USB vaults; real dedup repair is deferred; installer is not Authenticode-signed (SmartScreen warning expected).",
+  "pub_date": "2026-06-22T15:30:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjNCS3duck9SNVNlSnZHNDJmRHdGNmlTVEpmdVM5eGxSWEFSZkErZFN4RlhaN0lVeUs4aFhTSWNFQ252ckVib3hLdUtVOHlia2gycVRHY01CblBlendVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzc4NDk2CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4xLjdfeDY0LXNldHVwLmV4ZQpUNlhLRG9DMDJNU0g1d1h4LzZVcUFhVmhFblFacjRQdm5HdVhaSXJjTmxLL1VEOHo1cmFiMjNEYUV3cm1FS1Exb25Qck4ySU1IaDZoaGVJZjRRam5CQT09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.1.7/Neurochrome.Vault_1.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjlpSEFQN1JsRVZWSUl6Q21WNThjMUUxTXdody9kQk1abDRzMldjeUpwTnQxb2Y0MkFQQ2ZKTk01Rjh5aUNuRHh1MktlS3lqSXBLTlFJTUZNV2UzZUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTQxOTMwCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjBfeDY0LXNldHVwLmV4ZQoyRGV2ZjR4M3lXSG9ZZHd0TlZ1K082czBwaWEwRXF4VnNzdUFDbjYwUytuUGtBYUd0QWRLWXI2UlV3WDNpRUk1cE5JQk1sckJaNy9CUno0UmREVEVEZz09Cg==",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.0/Neurochrome.Vault_1.2.0_x64-setup.exe"
     }
   }
 }
