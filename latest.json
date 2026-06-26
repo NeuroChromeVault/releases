@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "notes": "Turbo Import: import now, review metadata later (Needs Review queue). Honest storage metrics: compression and deduplication shown separately. Safer startup: no automatic global dedup index rebuild at launch. Advanced read-only dedup audit. Experimental dedup repair planner (dry-run, fail-closed). Known issues: some advanced dedup/audit operations can be slow on USB vaults; real dedup repair is deferred; installer is not Authenticode-signed (SmartScreen warning expected).",
-  "pub_date": "2026-06-22T15:30:27Z",
+  "version": "1.2.1",
+  "notes": "fix: repair/dedup safety hardening — dedup repair planner uses SQLite-safe lab snapshot, path boundary checks no longer false-positive on sibling folders, real-vault authorization guard cannot be bypassed by a frontend-supplied path.",
+  "pub_date": "2026-06-26T09:20:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjlpSEFQN1JsRVZWSUl6Q21WNThjMUUxTXdody9kQk1abDRzMldjeUpwTnQxb2Y0MkFQQ2ZKTk01Rjh5aUNuRHh1MktlS3lqSXBLTlFJTUZNV2UzZUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTQxOTMwCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjBfeDY0LXNldHVwLmV4ZQoyRGV2ZjR4M3lXSG9ZZHd0TlZ1K082czBwaWEwRXF4VnNzdUFDbjYwUytuUGtBYUd0QWRLWXI2UlV3WDNpRUk1cE5JQk1sckJaNy9CUno0UmREVEVEZz09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.0/Neurochrome.Vault_1.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMi9rc1BZYmhnM2RITTNZb05ENU9ZcVB2Q1B2M2pRVkJGdzNaWlRGaEF0WXZNdS9KdzdjdWNUUHFWSFZoNVRPYnIvdndSRmRacEloWUlLbDZZK2QzUmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzcxMDI3CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjFfeDY0LXNldHVwLmV4ZQpxSFFRYkN0TTJkWi8yODZYLzlhN1VObEJZMmZueEpUYUI5Z203b2tqaUNKaGQ0TWsraDhrOHJlT05OQW1yc2RTVzhBNEdBcEV6VkFTS1ExbVhoSzZCdz09Cg==",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.1/Neurochrome.Vault_1.2.1_x64-setup.exe"
     }
   }
 }
