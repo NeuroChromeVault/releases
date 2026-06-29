@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
-  "notes": "fix: repair/dedup safety hardening — dedup repair planner uses SQLite-safe lab snapshot, path boundary checks no longer false-positive on sibling folders, real-vault authorization guard cannot be bypassed by a frontend-supplied path.",
-  "pub_date": "2026-06-26T09:20:30Z",
+  "version": "1.2.2",
+  "notes": "fix: LZMA-in-ZIP import fallback to 7-Zip; improve: readable import error messages in queue/recap; fix: SQL error sanitization in frontend.",
+  "pub_date": "2026-06-29T04:28:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMi9rc1BZYmhnM2RITTNZb05ENU9ZcVB2Q1B2M2pRVkJGdzNaWlRGaEF0WXZNdS9KdzdjdWNUUHFWSFZoNVRPYnIvdndSRmRacEloWUlLbDZZK2QzUmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzcxMDI3CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjFfeDY0LXNldHVwLmV4ZQpxSFFRYkN0TTJkWi8yODZYLzlhN1VObEJZMmZueEpUYUI5Z203b2tqaUNKaGQ0TWsraDhrOHJlT05OQW1yc2RTVzhBNEdBcEV6VkFTS1ExbVhoSzZCdz09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.1/Neurochrome.Vault_1.2.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjF2SUVqbTV1SzdkajNlRVBxYkczWHQ3YThZa0R0SHh0cW1KSmdmT2IrR2o1U1ExT1lDMXJVYWQ0Y2ZtSmp5YTJqQngxdXFDQWxFckVnQ3VlVEd3ZWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjcxOTY2CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjJfeDY0LXNldHVwLmV4ZQpXdmF3SEhwMzFZR1lEdzRJekdZZnJFOGMveGl2cVpFRG9zcTFRUml0OWt4bjR0dUl2RTAxaUQvUlFiNW1HbmZZd3RET21YYzR2RnkralpJMG9Da1lBUT09Cg==",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.2/Neurochrome.Vault_1.2.2_x64-setup.exe"
     }
   }
 }
