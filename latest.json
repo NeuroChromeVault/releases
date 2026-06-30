@@ -1,11 +1,11 @@
 {
-  "version": "1.2.2",
-  "notes": "fix: LZMA-in-ZIP import fallback to 7-Zip; improve: readable import error messages in queue/recap; fix: SQL error sanitization in frontend.",
-  "pub_date": "2026-06-29T04:28:44Z",
+  "version": "1.2.3",
+  "notes": "Faster library start: the first page of releases loads sooner; covers, stats and badges fill in afterwards without blocking the grid.\nMuch faster Vault stats: the dashboard reads pre-computed per-container statistics instead of re-scanning every container on each open. The Vault tab is fast even on large or external-drive vaults; a background pass keeps figures current and a Refresh dedup stats action recomputes on demand.\nMore accurate savings: deduplication now counts both data shared across archives and repeated data inside a single archive, so the Saved and dedup figures reflect the real space reclaimed.\nClearer loading state: while vault statistics are still being computed, the dashboard shows placeholders instead of a wall of zeros.",
+  "pub_date": "2026-06-30T12:34:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjF2SUVqbTV1SzdkajNlRVBxYkczWHQ3YThZa0R0SHh0cW1KSmdmT2IrR2o1U1ExT1lDMXJVYWQ0Y2ZtSmp5YTJqQngxdXFDQWxFckVnQ3VlVEd3ZWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjcxOTY2CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjJfeDY0LXNldHVwLmV4ZQpXdmF3SEhwMzFZR1lEdzRJekdZZnJFOGMveGl2cVpFRG9zcTFRUml0OWt4bjR0dUl2RTAxaUQvUlFiNW1HbmZZd3RET21YYzR2RnkralpJMG9Da1lBUT09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.2/Neurochrome.Vault_1.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjhBdDVJN3pBR0hOTTVPNTJpK1liOFRnNXpZSWRrRXRudi9CSjZWUWdOSnVoQ3VnZDh4Ymo4d0JrTzNCR1JseEd5V1NEK2djWitTbVFvd2V6WkN0SkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODIyNzU1CWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjNfeDY0LXNldHVwLmV4ZQp5MEhKbVpMRHVRbUxMMm14YjhHMTdJN0plVUVLckFkMUpmb05qTG1SajU1dFMzcUlCelpKSW9UemNueGlSZXh3MGpxT1FIU2JZb0h3bjJzWDhTZXVEUT09Cg==",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.3/Neurochrome.Vault_1.2.3_x64-setup.exe"
     }
   }
 }
