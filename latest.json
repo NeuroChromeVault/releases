@@ -1,11 +1,11 @@
 {
-  "version": "1.2.4",
-  "notes": "## Neurochrome Vault 1.2.4\n\n- Vault dashboard now opens instantly, even right after launch or during maintenance.\n- Rebuilding the deduplication index is dramatically faster on large vaults (minutes instead of hours).\n- Fixed a case where importing the same pack twice could skip deduplication and waste disk space.\n- Split RAR archives renamed by your browser (e.g. \"pack (2).rar\") now import correctly.\n- The app responds immediately after launch \u2014 no more startup stalls.\n- Long imports show live progress instead of appearing frozen, and finished imports show up right away.\n- 3D previews for newly imported models are ready faster.\n- Improved creator/title detection for more archive naming styles.\n- Editor polish: faster save workflow, quick online search, clearer mesh-check status.",
-  "pub_date": "2026-07-04T04:58:05Z",
+  "version": "1.2.5",
+  "notes": "Highlights:\n- Smarter imports: archives you already own are recognized - even when renamed - and skipped instead of creating duplicates. Imported releases appear in your library and search results immediately.\n- Dependable backups: automatic snapshots are always consistent and restore cleanly, and manual backups save the complete backup set to your chosen location.\n- Smoother 3D previews: preview generation is faster to start, resilient to damaged files, and no longer gets stuck on unreadable ones.\n- Polished experience: reliable startup and first-run flow, faster browsing of large archives, and general stability and security hardening throughout.",
+  "pub_date": "2026-07-06T14:48:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjRXS0lJK1N1MGxXNmFmWm1tZkpzV1NDZHE5WDkzd0hidS9jTHQwTjU0Qlh0QUhDb0NWajQwdElKQW0zVGp3VjJnZUhndHBTNUlrM0hRam1qaUgrVWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTAxMjEzCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjRfeDY0LXNldHVwLmV4ZQpTbnlubk8xbTdZR2x0YzRuTEJPRndZZExFd01aL1IwVDBUaEg4OXRMTXJCWE1QcE5XZ25nTmtDcktPeHlsTlFZaVp3ZUhGYVdDOW9rLzExRG1ZcTlDdz09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.4/Neurochrome.Vault_1.2.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjB3NGxqT29qajBaUDBqbEdQMUZ4WjNxS0Y0SUtudTZvUkdYRmVqbVArWkxkb1p3bzBBZ09INFlMcm9ZUnVJSWc4bnZYT2FQZUxwWHRCbytZZkR6V0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzQ5MjExCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjVfeDY0LXNldHVwLmV4ZQpFdE85aXEwcFlIM3dSL1RJeTNSZzMyaWhkTHdtT0xjL0NMUlAzeTlwODRDS1RYYmpUTm5GQTlPaUV4SEJLQzJoYW94TTNJRkZkNjRTallmdEpUbHVCUT09Cg==",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.5/Neurochrome.Vault_1.2.5_x64-setup.exe"
     }
   }
 }
