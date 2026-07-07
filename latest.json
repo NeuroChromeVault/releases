@@ -1,11 +1,11 @@
 {
-  "version": "1.2.5",
-  "notes": "Highlights:\n- Smarter imports: archives you already own are recognized - even when renamed - and skipped instead of creating duplicates. Imported releases appear in your library and search results immediately.\n- Dependable backups: automatic snapshots are always consistent and restore cleanly, and manual backups save the complete backup set to your chosen location.\n- Smoother 3D previews: preview generation is faster to start, resilient to damaged files, and no longer gets stuck on unreadable ones.\n- Polished experience: reliable startup and first-run flow, faster browsing of large archives, and general stability and security hardening throughout.",
-  "pub_date": "2026-07-06T14:48:19Z",
+  "version": "1.2.6",
+  "notes": "Highlights:\n- Dependable restore: restoring a backup now reliably replaces your library and relaunches the app, so your data always comes back.\n- Stable library: releases keep their real import date — no more old releases jumping to the top or showing NEW after background maintenance.\n- Settings that stick: theme, sorting and appearance preferences survive app updates instead of resetting.\n- Responsive imports: the activity queue shows progress immediately instead of appearing to hang while scanning large archives.\n- Move-import placeholder: leaving a same-name empty file so download managers still see the file as already downloaded.",
+  "pub_date": "2026-07-07T19:57:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjB3NGxqT29qajBaUDBqbEdQMUZ4WjNxS0Y0SUtudTZvUkdYRmVqbVArWkxkb1p3bzBBZ09INFlMcm9ZUnVJSWc4bnZYT2FQZUxwWHRCbytZZkR6V0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzQ5MjExCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjVfeDY0LXNldHVwLmV4ZQpFdE85aXEwcFlIM3dSL1RJeTNSZzMyaWhkTHdtT0xjL0NMUlAzeTlwODRDS1RYYmpUTm5GQTlPaUV4SEJLQzJoYW94TTNJRkZkNjRTallmdEpUbHVCUT09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.5/Neurochrome.Vault_1.2.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjBxVDZYN0dGeFpnbTBRNXRLUkR6ajB0dHJYS3Z6SWV3cG9CWTliRVk1ZkRjY2tyYTdDUGZMMkZoK0NVTGVNYmQrdFZodnB4SDVLUTdaY0tsZ0pOR1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDU0MDYyCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjZfeDY0LXNldHVwLmV4ZQpJMnhlNFBFYkhkVXROdlo1UFkwdnJYc0taSm1sRzJBUzZHbG1DM3lSVlZpMi9VUWFCaHpZMU9sbzJqQzJrK0tIMjlGNFhDeVJCSWtqT3ZSaVVFWnJEZz09Cg==",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.6/Neurochrome.Vault_1.2.6_x64-setup.exe"
     }
   }
 }
