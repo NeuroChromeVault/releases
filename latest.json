@@ -1,11 +1,11 @@
 {
-  "version": "1.2.6",
-  "notes": "Highlights:\n- Dependable restore: restoring a backup now reliably replaces your library and relaunches the app, so your data always comes back.\n- Stable library: releases keep their real import date — no more old releases jumping to the top or showing NEW after background maintenance.\n- Settings that stick: theme, sorting and appearance preferences survive app updates instead of resetting.\n- Responsive imports: the activity queue shows progress immediately instead of appearing to hang while scanning large archives.\n- Move-import placeholder: leaving a same-name empty file so download managers still see the file as already downloaded.",
-  "pub_date": "2026-07-07T19:57:44Z",
+  "version": "1.2.7",
+  "notes": "- Fixed: 3D viewer no longer freezes on \"Preparing viewer...\" while imports or background work run - browsing stays responsive, and the app closes cleanly instead of hanging (window close button works again).\n- Fixed: Restoring a backup that carries its compression dictionary works again, and if a restore is interrupted the previous database is preserved intact - journal included - for a clean rollback.\n- Fixed: The activity queue now shows long imports from start to finish: queued items appear immediately and cards no longer vanish during long extraction phases.\n- Fixed: Move-import placeholders are now written for container archives and background imports too, so download managers keep recognizing the file as downloaded.\n- Improved: Faster nested .7z imports (fewer redundant archive scans), safer restore-from-file validation, and UI preferences are saved reliably when closing the app.\n",
+  "pub_date": "2026-07-10T12:59:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjBxVDZYN0dGeFpnbTBRNXRLUkR6ajB0dHJYS3Z6SWV3cG9CWTliRVk1ZkRjY2tyYTdDUGZMMkZoK0NVTGVNYmQrdFZodnB4SDVLUTdaY0tsZ0pOR1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDU0MDYyCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjZfeDY0LXNldHVwLmV4ZQpJMnhlNFBFYkhkVXROdlo1UFkwdnJYc0taSm1sRzJBUzZHbG1DM3lSVlZpMi9VUWFCaHpZMU9sbzJqQzJrK0tIMjlGNFhDeVJCSWtqT3ZSaVVFWnJEZz09Cg==",
-      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.6/Neurochrome.Vault_1.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYWNqdnYraHVlMjdiclJWRW1FdDROdjRKQW9CaHZHaElkcEUrUkJUVnByajUvTnhQVTBEMlg5VVFURDc5aUZsalBsS2dOWjJwWU45S3RCYTZ2OXRvbjFsdkVJbEUzVEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjc2NDkzCWZpbGU6TmV1cm9jaHJvbWUgVmF1bHRfMS4yLjdfeDY0LXNldHVwLmV4ZQpDcmNrdlNWYnY3OEVwNGZWNTJBZll4aVEvZWxscGE2MThBL1VaaVl4K0FzMStvcStJWUlmQnJqajA5ZmpNK0NraVljTnFWT2ZQbE9WZDNGUFNaS0JEQT09Cg==",
+      "url": "https://github.com/NeuroChromeVault/releases/releases/download/v1.2.7/Neurochrome.Vault_1.2.7_x64-setup.exe"
     }
   }
 }
